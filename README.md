@@ -4,5 +4,3 @@ L2TP一键安装脚本:
 chmod a+x install.sh
 ./install.sh
 </code></pre>
-Linux一键搭建L2TP服务器！
-请在ROOT权限下执行脚本！
